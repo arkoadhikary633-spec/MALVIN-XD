@@ -8,14 +8,14 @@
     "owner-verification":"malvink003@gmail.com",
   
     "env": {
-      "SESSION_ID": {
+      "SESSION_ID": {malvin~UjN0HYIZ#kEduaXyH3WFDvNnSILkTrrB25mHs0H7gBUVepQtCgHA
         "description": "Put your SESSION_ID here. It starts with malvin~",
         "value":"",
         "required": true
         
       },
       
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {+918101856073
       "description": "Enter owner number",
       "required": true,
       "value": "263714757857"
